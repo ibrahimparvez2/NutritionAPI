@@ -1,0 +1,11 @@
+C:\Code_repo\NutritionAPI\CountingKs\CountingKsDataLayer\bin\Debug\CountingKsDataLayer.exe.config
+C:\Code_repo\NutritionAPI\CountingKs\CountingKsDataLayer\bin\Debug\CountingKsDataLayer.exe
+C:\Code_repo\NutritionAPI\CountingKs\CountingKsDataLayer\bin\Debug\CountingKsDataLayer.pdb
+C:\Code_repo\NutritionAPI\CountingKs\CountingKsDataLayer\bin\Debug\EntityFramework.dll
+C:\Code_repo\NutritionAPI\CountingKs\CountingKsDataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Code_repo\NutritionAPI\CountingKs\CountingKsDataLayer\bin\Debug\EntityFramework.xml
+C:\Code_repo\NutritionAPI\CountingKs\CountingKsDataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Code_repo\NutritionAPI\CountingKs\CountingKsDataLayer\obj\Debug\CountingKsDataLayer.csprojResolveAssemblyReference.cache
+C:\Code_repo\NutritionAPI\CountingKs\CountingKsDataLayer\obj\Debug\CountingKsDataLayer.csproj.CoreCompileInputs.cache
+C:\Code_repo\NutritionAPI\CountingKs\CountingKsDataLayer\obj\Debug\CountingKsDataLayer.exe
+C:\Code_repo\NutritionAPI\CountingKs\CountingKsDataLayer\obj\Debug\CountingKsDataLayer.pdb
